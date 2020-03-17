@@ -1,0 +1,27 @@
+{
+  "name": "event-app",
+  "version": "1.0.0",
+  "description": "Event booking app using GraphQL, Node.js, React.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh-soni/event-app.git"
+  },
+  "author": "Ashutosh Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutosh-soni/event-app/issues"
+  },
+  "homepage": "https://github.com/ashutosh-soni/event-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
